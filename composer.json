@@ -1,0 +1,19 @@
+{
+    "name": "spryker-feature/warehouse-user-management",
+    "description": "Warehouse User Management [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=8.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202307.x-dev"
+        }
+    },
+    "suggest": {
+        "spryker-feature/spryker-core-back-office": "Recommended feature dependency."
+    }
+}
