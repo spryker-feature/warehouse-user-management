@@ -6,7 +6,10 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.0"
+        "php": ">=8.0",
+        "spryker/oauth-warehouse": "^1.0.0",
+        "spryker/warehouse-user": "^1.0.0",
+        "spryker/warehouse-user-gui": "^1.0.0"
     },
     "extra": {
         "branch-alias": {
