@@ -1,6 +1,6 @@
 # Spryker Feature: Warehouse User Management
 
-
+The Warehouse User Management feature provides administrators with the ability to streamline warehouse operations by assigning and managing user access within the Backoffice. Administrators can designate which users have warehouse privileges, effectively controlling who can engage with warehouse-specific tasks.
 
 ## Installation
 
