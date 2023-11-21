@@ -15,4 +15,4 @@ If you don't include the feature dependencies, make sure you use the respective 
 
 ## Optional modules
 - [WarehouseOauthBackendApi ^1.0.0](https://github.com/spryker/warehouse-oauth-backend-api) (Glue Backend)
-- [WarehouseUsersBackendApi ^1.0.0](https://github.com/spryker/warehouse-users-backend-api) (Glue Backend)
+- [WarehouseUsersBackendApi ^1.1.0](https://github.com/spryker/warehouse-users-backend-api) (Glue Backend)
