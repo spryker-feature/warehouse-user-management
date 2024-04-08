@@ -10,7 +10,7 @@
         "spryker/oauth-warehouse": "^1.0.0",
         "spryker/oauth-warehouse-user": "^1.0.0",
         "spryker/warehouse-user": "^1.1.0",
-        "spryker/warehouse-user-gui": "^1.1.0"
+        "spryker/warehouse-user-gui": "^1.1.1"
     },
     "extra": {
         "branch-alias": {
