@@ -9,12 +9,12 @@
         "php": ">=8.2",
         "spryker/oauth-warehouse": "^1.1.0",
         "spryker/oauth-warehouse-user": "^1.0.0",
-        "spryker/warehouse-user": "^1.1.0",
+        "spryker/warehouse-user": "^1.2.0",
         "spryker/warehouse-user-gui": "^2.0.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202510.x-dev"
+            "dev-master": "202512.x-dev"
         }
     },
     "suggest": {
