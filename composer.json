@@ -7,14 +7,14 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
-        "spryker/oauth-warehouse": "^1.1.0",
+        "spryker/oauth-warehouse": "^1.2.0",
         "spryker/oauth-warehouse-user": "^1.0.0",
         "spryker/warehouse-user": "^1.2.0",
         "spryker/warehouse-user-gui": "^2.1.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202604.x-dev"
+            "dev-master": "202606.x-dev"
         }
     },
     "suggest": {
